@@ -1,7 +1,7 @@
 ### About me
 
 <h1 align="left">Hi, I'm joo. 🐧</h1>
-<h3 align="left">A 17-year-old student who dreams of becomeing a developer</h3>
+<h3 align="left">Prove it.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hun002&label=Profile%20views&color=0e75b6&style=flat" alt="hun002" /> </p>
 
